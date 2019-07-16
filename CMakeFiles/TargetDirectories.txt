@@ -1,0 +1,7 @@
+/home/kota/git/trackingSCARA/CMakeFiles/install/strip.dir
+/home/kota/git/trackingSCARA/CMakeFiles/edit_cache.dir
+/home/kota/git/trackingSCARA/CMakeFiles/trackingSCARA.dir
+/home/kota/git/trackingSCARA/CMakeFiles/list_install_components.dir
+/home/kota/git/trackingSCARA/CMakeFiles/install/local.dir
+/home/kota/git/trackingSCARA/CMakeFiles/rebuild_cache.dir
+/home/kota/git/trackingSCARA/CMakeFiles/install.dir
